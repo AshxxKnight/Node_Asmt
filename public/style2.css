@@ -1,0 +1,24 @@
+body{
+
+    background: linear-gradient(to right, #4cbac2, #0496a0)
+}
+
+h2{
+    text-align: center;
+}
+
+.center-div{
+    padding-top: 7%;
+}
+
+.btn.btn-success{
+    padding: .4em 2em;
+}
+
+form{
+    padding: 0 3em;
+}
+
+#login .title > span{
+    font-size: .8em;
+}

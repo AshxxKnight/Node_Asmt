@@ -1,0 +1,15 @@
+body{
+    background-image: url('/assets/Image1.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2{
+    text-align: center;
+}
+div{
+    margin-top: 8%;
+    margin-right: 8.5%;
+}
+.mgn{
+    margin-left: 8.6%;
+}

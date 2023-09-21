@@ -1,0 +1,13 @@
+body{
+
+    background: linear-gradient(to right, #4cbac2, #0496a0)
+}
+h2{
+    text-align: center;
+}
+h4{
+    color:rgb(75, 75, 75);
+}
+.form-label{
+    font-size: medium;
+}
